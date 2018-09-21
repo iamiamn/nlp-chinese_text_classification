@@ -3,5 +3,3 @@ here I build up a chinese text classification with package jieba for tokenizatio
 
 I write my code from the basic code from http://blog.sina.com.cn/s/blog_7e5f32ff0102w9ll.html
 I add up more parts for the text classification:
-to be added....
-1. chinese tokenization
